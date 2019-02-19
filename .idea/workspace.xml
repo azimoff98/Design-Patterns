@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc4719ac-451e-4319-9b9f-673ee88ffdcb" name="Default Changelist" comment="" />
+    <list default="true" id="fc4719ac-451e-4319-9b9f-673ee88ffdcb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/objectPool/ExportingProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/objectPool/ExportingTask.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/objectPool/ObjectPool$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/objectPool/ObjectPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/objectPool/ObjectPoolDemo$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/objectPool/ObjectPoolDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/objectPool/ExportingProcess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/objectPool/ExportingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/objectPool/ObjectPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/objectPool/ObjectPoolDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/builder/BankAccount$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/builder/BankAccount$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/builder/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Design-Patterns/com/company/builder/Demo.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,45 +54,107 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1840132862">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2706" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2706" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/builder/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="-2">
+              <caret line="48" column="46" lean-forward="true" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
               <folding>
-                <element signature="e#1066#1067#0" expanded="true" />
-                <element signature="e#1102#1103#0" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
-                <element signature="e#1208#1209#0" expanded="true" />
-                <element signature="e#1240#1241#0" expanded="true" />
-                <element signature="e#1268#1269#0" expanded="true" />
-                <element signature="e#1310#1311#0" expanded="true" />
-                <element signature="e#1344#1345#0" expanded="true" />
-                <element signature="e#1377#1378#0" expanded="true" />
-                <element signature="e#1406#1407#0" expanded="true" />
-                <element signature="e#1450#1451#0" expanded="true" />
-                <element signature="e#1486#1487#0" expanded="true" />
-                <element signature="e#1520#1521#0" expanded="true" />
-                <element signature="e#1550#1551#0" expanded="true" />
-                <element signature="e#1596#1597#0" expanded="true" />
-                <element signature="e#1634#1635#0" expanded="true" />
-                <element signature="e#1673#1674#0" expanded="true" />
-                <element signature="e#1708#1709#0" expanded="true" />
                 <element signature="e#1764#1765#0" expanded="true" />
-                <element signature="e#1812#1813#0" expanded="true" />
+                <element signature="e#1793#1794#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/ObjectPool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="474">
+              <caret line="113" column="40" lean-forward="true" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1230#1231#0" expanded="true" />
+                <element signature="e#1258#1259#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/ExportingProcess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/ExportingTask.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/ObjectPoolDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#409#410#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/builder/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -121,6 +197,12 @@
         <option value="$PROJECT_DIR$/src/com/company/singleton/Main.java" />
         <option value="$PROJECT_DIR$/src/com/company/builder/BankAccount.java" />
         <option value="$PROJECT_DIR$/src/com/company/builder/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/objectPool/PooledObject.java" />
+        <option value="$PROJECT_DIR$/src/com/company/objectPool/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/company/objectPool/ObjectPool.java" />
+        <option value="$PROJECT_DIR$/src/com/company/objectPool/ExportingProcess.java" />
+        <option value="$PROJECT_DIR$/src/com/company/objectPool/ExportingTask.java" />
+        <option value="$PROJECT_DIR$/src/com/company/objectPool/ObjectPoolDemo.java" />
       </list>
     </option>
   </component>
@@ -133,8 +215,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1400" />
-    <option name="height" value="820" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -144,6 +226,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,20 +260,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="builder" type="462c0819:PsiDirectoryNode" />
+              <item name="objectPool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550434884275" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550554921420" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -202,7 +285,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo">
+  <component name="RunManager" selected="Application.ObjectPoolDemo">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.builder.Demo" />
       <module name="Design-Patterns" />
@@ -239,13 +322,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ObjectPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.objectPool.ObjectPoolDemo" />
+      <module name="Design-Patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.objectPool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.ObjectPoolDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectPoolDemo" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
@@ -263,44 +361,44 @@
       <option name="presentableId" value="Default" />
       <updated>1550399141381</updated>
       <workItem from="1550399143402" duration="5132000" />
+      <workItem from="1550476008882" duration="6559000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5132000" />
+    <option name="totallyTimeSpent" value="11691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2494043" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23567335" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297546" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.45760432" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Image Layers" order="0" />
@@ -340,41 +438,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/Minivan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/Sedan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/SUV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/VehicleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/factory/Vehicle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/Minivan.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/Sedan.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/SUV.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/VehicleFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/factory/Vehicle.java" />
     <entry file="file://$PROJECT_DIR$/src/com/company/factory/Phone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -386,10 +454,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="54" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-          <folding>
-            <element signature="e#117#118#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -397,10 +461,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-          <folding>
-            <element signature="e#103#104#0" expanded="true" />
-            <element signature="e#139#140#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -408,10 +468,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -454,46 +510,82 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/builder/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#1066#1067#0" expanded="true" />
-            <element signature="e#1102#1103#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1208#1209#0" expanded="true" />
-            <element signature="e#1240#1241#0" expanded="true" />
-            <element signature="e#1268#1269#0" expanded="true" />
-            <element signature="e#1310#1311#0" expanded="true" />
-            <element signature="e#1344#1345#0" expanded="true" />
-            <element signature="e#1377#1378#0" expanded="true" />
-            <element signature="e#1406#1407#0" expanded="true" />
-            <element signature="e#1450#1451#0" expanded="true" />
-            <element signature="e#1486#1487#0" expanded="true" />
-            <element signature="e#1520#1521#0" expanded="true" />
-            <element signature="e#1550#1551#0" expanded="true" />
-            <element signature="e#1596#1597#0" expanded="true" />
-            <element signature="e#1634#1635#0" expanded="true" />
-            <element signature="e#1673#1674#0" expanded="true" />
-            <element signature="e#1708#1709#0" expanded="true" />
-            <element signature="e#1764#1765#0" expanded="true" />
-            <element signature="e#1812#1813#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/builder/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/builder/BankAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="48" column="46" lean-forward="true" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
+          <folding>
+            <element signature="e#1764#1765#0" expanded="true" />
+            <element signature="e#1793#1794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/PooledObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/ObjectPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="113" column="40" lean-forward="true" selection-start-line="113" selection-start-column="40" selection-end-line="113" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1258#1259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/ExportingProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/ExportingTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/objectPool/ObjectPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#409#410#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
